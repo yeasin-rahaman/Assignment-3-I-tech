@@ -1,0 +1,695 @@
+[
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/2c/TikTok_logo.svg",
+        "title": "TikTok",
+        "companyName": "ByteDance",
+        "id": 1,
+        "description": "Short video social platform",
+        "size": 125,
+        "reviews": 85000000,
+        "ratingAvg": 4.4,
+        "downloads": 5000000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 3000000
+            },
+            {
+                "name": "2 star",
+                "count": 1500000
+            },
+            {
+                "name": "3 star",
+                "count": 4500000
+            },
+            {
+                "name": "4 star",
+                "count": 15000000
+            },
+            {
+                "name": "5 star",
+                "count": 75000000
+            }
+        ]
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png",
+        "title": "Instagram",
+        "companyName": "Meta Platforms",
+        "id": 2,
+        "description": "Photo & video social sharing",
+        "size": 145,
+        "reviews": 78000000,
+        "ratingAvg": 4.2,
+        "downloads": 3800000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 2500000
+            },
+            {
+                "name": "2 star",
+                "count": 2000000
+            },
+            {
+                "name": "3 star",
+                "count": 7000000
+            },
+            {
+                "name": "4 star",
+                "count": 22000000
+            },
+            {
+                "name": "5 star",
+                "count": 41000000
+            }
+        ]
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg",
+        "title": "WhatsApp Messenger",
+        "companyName": "Meta Platforms",
+        "id": 3,
+        "description": "Instant messaging and voice/video calls",
+        "size": 93,
+        "reviews": 150000000,
+        "ratingAvg": 4.7,
+        "downloads": 5000000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 4000000
+            },
+            {
+                "name": "2 star",
+                "count": 2000000
+            },
+            {
+                "name": "3 star",
+                "count": 5000000
+            },
+            {
+                "name": "4 star",
+                "count": 45000000
+            },
+            {
+                "name": "5 star",
+                "count": 100000000
+            }
+        ]
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png",
+        "title": "YouTube",
+        "companyName": "Google LLC",
+        "id": 4,
+        "description": "Video streaming platform",
+        "size": 210,
+        "reviews": 60000000,
+        "ratingAvg": 4.6,
+        "downloads": 5000000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 2000000
+            },
+            {
+                "name": "2 star",
+                "count": 1500000
+            },
+            {
+                "name": "3 star",
+                "count": 5000000
+            },
+            {
+                "name": "4 star",
+                "count": 18000000
+            },
+            {
+                "name": "5 star",
+                "count": 35000000
+            }
+        ]
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/CapCut_logo.png",
+        "title": "CapCut – Video Editor",
+        "companyName": "ByteDance Pte. Ltd.",
+        "id": 5,
+        "description": "Video creation & editing tool",
+        "size": 180,
+        "reviews": 12000000,
+        "ratingAvg": 4.3,
+        "downloads": 2200000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 500000
+            },
+            {
+                "name": "2 star",
+                "count": 250000
+            },
+            {
+                "name": "3 star",
+                "count": 900000
+            },
+            {
+                "name": "4 star",
+                "count": 3500000
+            },
+            {
+                "name": "5 star",
+                "count": 7100000
+            }
+        ]
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Telegram_2019_Logo.svg",
+        "title": "Telegram",
+        "companyName": "Telegram FZ-LLC",
+        "id": 6,
+        "description": "Cloud messaging app",
+        "size": 110,
+        "reviews": 14000000,
+        "ratingAvg": 4.5,
+        "downloads": 1800000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 300000
+            },
+            {
+                "name": "2 star",
+                "count": 150000
+            },
+            {
+                "name": "3 star",
+                "count": 850000
+            },
+            {
+                "name": "4 star",
+                "count": 4000000
+            },
+            {
+                "name": "5 star",
+                "count": 9000000
+            }
+        ]
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Snapchat_logo.svg",
+        "title": "Snapchat",
+        "companyName": "Snap Inc.",
+        "id": 7,
+        "description": "Multimedia messaging",
+        "size": 107,
+        "reviews": 50000000,
+        "ratingAvg": 4.4,
+        "downloads": 3100000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 2500000
+            },
+            {
+                "name": "2 star",
+                "count": 1200000
+            },
+            {
+                "name": "3 star",
+                "count": 3500000
+            },
+            {
+                "name": "4 star",
+                "count": 12000000
+            },
+            {
+                "name": "5 star",
+                "count": 33000000
+            }
+        ]
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/58/ChatGPT_logo.svg",
+        "title": "ChatGPT",
+        "companyName": "OpenAI",
+        "id": 8,
+        "description": "AI assistant & chatbot",
+        "size": 160,
+        "reviews": 40000000,
+        "ratingAvg": 4.5,
+        "downloads": 1500000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 2000000
+            },
+            {
+                "name": "2 star",
+                "count": 1000000
+            },
+            {
+                "name": "3 star",
+                "count": 3000000
+            },
+            {
+                "name": "4 star",
+                "count": 13000000
+            },
+            {
+                "name": "5 star",
+                "count": 22000000
+            }
+        ]
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/09/Spotify_logo_with_text.svg",
+        "title": "Spotify",
+        "companyName": "Spotify Ltd.",
+        "id": 9,
+        "description": "Music streaming service",
+        "size": 115,
+        "reviews": 35000000,
+        "ratingAvg": 4.5,
+        "downloads": 2500000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 1500000
+            },
+            {
+                "name": "2 star",
+                "count": 900000
+            },
+            {
+                "name": "3 star",
+                "count": 2500000
+            },
+            {
+                "name": "4 star",
+                "count": 9000000
+            },
+            {
+                "name": "5 star",
+                "count": 22000000
+            }
+        ]
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/fa/LinkedIn_logo_initials.png",
+        "title": "LinkedIn",
+        "companyName": "Microsoft",
+        "id": 10,
+        "description": "Professional networking",
+        "size": 160,
+        "reviews": 21000000,
+        "ratingAvg": 4.3,
+        "downloads": 1100000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 500000
+            },
+            {
+                "name": "2 star",
+                "count": 300000
+            },
+            {
+                "name": "3 star",
+                "count": 1000000
+            },
+            {
+                "name": "4 star",
+                "count": 6000000
+            },
+            {
+                "name": "5 star",
+                "count": 14100000
+            }
+        ]
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/85/Netflix_2015_N_logo.svg",
+        "title": "Netflix",
+        "companyName": "Netflix, Inc.",
+        "id": 11,
+        "description": "Streaming movies & TV shows",
+        "size": 200,
+        "reviews": 42000000,
+        "ratingAvg": 4.4,
+        "downloads": 2800000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 2500000
+            },
+            {
+                "name": "2 star",
+                "count": 1500000
+            },
+            {
+                "name": "3 star",
+                "count": 5000000
+            },
+            {
+                "name": "4 star",
+                "count": 12000000
+            },
+            {
+                "name": "5 star",
+                "count": 25000000
+            }
+        ]
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Google_Messages_icon.svg",
+        "title": "Google Messages",
+        "companyName": "Google LLC",
+        "id": 12,
+        "description": "SMS and chat messaging",
+        "size": 80,
+        "reviews": 15000000,
+        "ratingAvg": 4.2,
+        "downloads": 900000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 500000
+            },
+            {
+                "name": "2 star",
+                "count": 300000
+            },
+            {
+                "name": "3 star",
+                "count": 900000
+            },
+            {
+                "name": "4 star",
+                "count": 4000000
+            },
+            {
+                "name": "5 star",
+                "count": 10200000
+            }
+        ]
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Facebook_icon_2013.svg",
+        "title": "Facebook",
+        "companyName": "Meta Platforms",
+        "id": 13,
+        "description": "Social networking platform",
+        "size": 130,
+        "reviews": 120000000,
+        "ratingAvg": 4.1,
+        "downloads": 5000000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 7000000
+            },
+            {
+                "name": "2 star",
+                "count": 3500000
+            },
+            {
+                "name": "3 star",
+                "count": 9000000
+            },
+            {
+                "name": "4 star",
+                "count": 25000000
+            },
+            {
+                "name": "5 star",
+                "count": 85000000
+            }
+        ]
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/62/Gmail_icon_(2020).svg",
+        "title": "Gmail",
+        "companyName": "Google LLC",
+        "id": 14,
+        "description": "Email client",
+        "size": 90,
+        "reviews": 40000000,
+        "ratingAvg": 4.5,
+        "downloads": 4000000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 1000000
+            },
+            {
+                "name": "2 star",
+                "count": 500000
+            },
+            {
+                "name": "3 star",
+                "count": 2000000
+            },
+            {
+                "name": "4 star",
+                "count": 12000000
+            },
+            {
+                "name": "5 star",
+                "count": 25000000
+            }
+        ]
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/64/Google_Maps_icon.svg",
+        "title": "Google Maps",
+        "companyName": "Google LLC",
+        "id": 15,
+        "description": "Navigation & maps",
+        "size": 150,
+        "reviews": 60000000,
+        "ratingAvg": 4.6,
+        "downloads": 5000000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 2000000
+            },
+            {
+                "name": "2 star",
+                "count": 1000000
+            },
+            {
+                "name": "3 star",
+                "count": 4000000
+            },
+            {
+                "name": "4 star",
+                "count": 16000000
+            },
+            {
+                "name": "5 star",
+                "count": 37000000
+            }
+        ]
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/19/PayPal_logo.svg",
+        "title": "PayPal",
+        "companyName": "PayPal, Inc.",
+        "id": 16,
+        "description": "Digital payments & wallet",
+        "size": 120,
+        "reviews": 20000000,
+        "ratingAvg": 4.4,
+        "downloads": 1000000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 600000
+            },
+            {
+                "name": "2 star",
+                "count": 400000
+            },
+            {
+                "name": "3 star",
+                "count": 1200000
+            },
+            {
+                "name": "4 star",
+                "count": 5000000
+            },
+            {
+                "name": "5 star",
+                "count": 13300000
+            }
+        ]
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Zoom_Communications_logo.svg",
+        "title": "Zoom",
+        "companyName": "Zoom Video Communications",
+        "id": 17,
+        "description": "Video conferencing & meetings",
+        "size": 110,
+        "reviews": 25000000,
+        "ratingAvg": 4.5,
+        "downloads": 1000000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 500000
+            },
+            {
+                "name": "2 star",
+                "count": 300000
+            },
+            {
+                "name": "3 star",
+                "count": 1200000
+            },
+            {
+                "name": "4 star",
+                "count": 6000000
+            },
+            {
+                "name": "5 star",
+                "count": 17000000
+            }
+        ]
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Roblox_Logo_2022.svg",
+        "title": "Roblox",
+        "companyName": "Roblox Corporation",
+        "id": 18,
+        "description": "Online gaming & creation platform",
+        "size": 200,
+        "reviews": 30000000,
+        "ratingAvg": 4.3,
+        "downloads": 2000000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 2000000
+            },
+            {
+                "name": "2 star",
+                "count": 1000000
+            },
+            {
+                "name": "3 star",
+                "count": 5000000
+            },
+            {
+                "name": "4 star",
+                "count": 7000000
+            },
+            {
+                "name": "5 star",
+                "count": 15000000
+            }
+        ]
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Subway_Surfers_Logo.png",
+        "title": "Subway Surfers",
+        "companyName": "Kiloo",
+        "id": 19,
+        "description": "Endless runner mobile game",
+        "size": 95,
+        "reviews": 15000000,
+        "ratingAvg": 4.5,
+        "downloads": 2500000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 500000
+            },
+            {
+                "name": "2 star",
+                "count": 300000
+            },
+            {
+                "name": "3 star",
+                "count": 1200000
+            },
+            {
+                "name": "4 star",
+                "count": 5000000
+            },
+            {
+                "name": "5 star",
+                "count": 13200000
+            }
+        ]
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Duolingo_logo.svg",
+        "title": "Duolingo",
+        "companyName": "Duolingo, Inc.",
+        "id": 20,
+        "description": "Language learning app",
+        "size": 150,
+        "reviews": 25000000,
+        "ratingAvg": 4.7,
+        "downloads": 1000000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 400000
+            },
+            {
+                "name": "2 star",
+                "count": 200000
+            },
+            {
+                "name": "3 star",
+                "count": 800000
+            },
+            {
+                "name": "4 star",
+                "count": 5000000
+            },
+            {
+                "name": "5 star",
+                "count": 19000000
+            }
+        ]
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Temu_logo.png",
+        "title": "Temu",
+        "companyName": "PDD Holdings",
+        "id": 21,
+        "description": "Online shopping app",
+        "size": 170,
+        "reviews": 10000000,
+        "ratingAvg": 4.4,
+        "downloads": 150000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 300000
+            },
+            {
+                "name": "2 star",
+                "count": 200000
+            },
+            {
+                "name": "3 star",
+                "count": 500000
+            },
+            {
+                "name": "4 star",
+                "count": 2000000
+            },
+            {
+                "name": "5 star",
+                "count": 7200000
+            }
+        ]
+    }
+]
