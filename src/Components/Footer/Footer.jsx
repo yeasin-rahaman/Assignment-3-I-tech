@@ -13,7 +13,7 @@ const Footer = () => {
                     <div className="col-span-1 md:col-span-1">
                         <div className="flex items-center gap-2 mb-6">
                             <div className="w-8 h-8 bg-[#8b5cf6] rounded-lg flex items-center justify-center font-bold text-white">H</div>
-                            <span className="text-2xl font-black text-white tracking-tighter">HERO.IO</span>
+                            <span className="text-2xl font-black text-white tracking-tighter">I Tech</span>
                         </div>
                         <p className="text-sm leading-relaxed opacity-70">
                             Crafting digital experiences that simplify life and empower productivity. Built with passion for millions of users worldwide.
@@ -60,7 +60,7 @@ const Footer = () => {
 
                 {/* BOTTOM BAR */}
                 <div className="border-t border-slate-700 mt-16 pt-8 flex flex-col md:flex-row justify-between items-center gap-4 text-xs opacity-50">
-                    <p>© 2026 HERO.IO - All Rights Reserved.</p>
+                    <p>© 2026 I Tech - All Rights Reserved.</p>
                     <div className="flex gap-6">
                         <a href="#" className="hover:underline">Support</a>
                         <a href="#" className="hover:underline">Contact</a>

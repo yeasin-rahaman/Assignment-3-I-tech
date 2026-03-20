@@ -15,7 +15,7 @@ const NavBar = () => {
                 {/* Logo - Wrapped in NavLink to return Home */}
                 <NavLink to="/" className="flex items-center gap-2">
                     <div className="w-7 h-7 bg-gradient-to-r from-blue-500 to-purple-500 rounded-full"></div>
-                    <span className="font-semibold text-[14px] text-gray-700">HERO.IO</span>
+                    <span className="font-semibold text-[14px] text-gray-700">I Tech</span>
                 </NavLink>
 
                 {/* Center Menu */}

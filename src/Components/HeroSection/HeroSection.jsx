@@ -15,7 +15,7 @@ const HeroSection = () => {
             </h1>
 
             <p className="max-w-2xl mx-auto mt-6 text-gray-500 text-sm">
-                At HERO.IO, we craft innovative apps designed to make everyday life simpler,
+                At I Tech, we craft innovative apps designed to make everyday life simpler,
                 smarter, and more exciting. Our goal is to turn your ideas into digital experiences.
             </p>
 
